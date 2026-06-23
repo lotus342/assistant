@@ -1,0 +1,31 @@
+[
+  {
+    "time": "2026-06-23 15:43",
+    "user": {
+      "gender": "男",
+      "age": 22,
+      "height": 170,
+      "weight": 60,
+      "active": "久坐（学生/办公室）",
+      "disease": [],
+      "target": "减脂减重",
+      "taste": "清淡少油",
+      "scene": "居家做饭",
+      "hate": [],
+      "bmi": 20.76,
+      "bmi_level": "标准健康"
+    },
+    "target_cal": 1469,
+    "macro": {
+      "protein": 110,
+      "carb": 118,
+      "fat": 62
+    },
+    "meals": {
+      "breakfast": "燕麦蓝莓酸奶碗",
+      "lunch": "麻辣烫清爽点单",
+      "dinner": "豆腐南瓜暖胃煲",
+      "snack": "银耳水果小甜品"
+    }
+  }
+]
