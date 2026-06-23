@@ -1,4 +1,0 @@
-streamlit
-pandas
-matplotlib
-fonts-wqy-microhei
